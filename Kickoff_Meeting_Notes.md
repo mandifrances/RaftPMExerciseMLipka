@@ -1,8 +1,8 @@
-#Kickoff Meeting Notes
+Kickoff Meeting Notes
 
 Date: 
 
-##Attendees:
+Attendees:
 *<Name><Role><Location>*
 
 ##Notes
