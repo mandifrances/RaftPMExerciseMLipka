@@ -1,4 +1,4 @@
 # Table of Contents
 
-##Sprint 0
+## Sprint 0
 - Kickoff Meeting
