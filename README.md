@@ -1,8 +1,8 @@
 # RaftPMExerciseMLipka
 
-# Table of Contents
+## Table of Contents
 1. [Exercise Background](##Background)
-2. Kickoff Agenda
+2. [Kickoff Agenda](##Kickoff Agenda)
 
 ## Background
 You are kicking off a new project for revamping a legacy system into a new web based application. Your team comprises of 7 people: Product Manager (you), Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist. The client team comprises of Product Owner and few other stakeholders. The overall product vision and the roadmap for the first phase has been shared with your team. The discovery for the first phase has been completed by the internal stakeholder/client team. The client has requested that product be developed in the open source and is managed using ZenHub.
@@ -16,3 +16,7 @@ As part of completing this exercise, please submit the following items as final 
 - [ ] 4. Setup boards and create issues for Sprint 0. The sprint duration will be two weeks.
 - [ ] 5. Enable Zenhub (https://www.zenhub.com/) -- It is free for public repositories. We will view Zenhub via the Google Chrome Plugin
 - [ ] 6. Provide write access to the repository to the following folks: omnipresent07, shubhi-raft, and turbomarc
+
+
+## Kickoff Agenda
+
