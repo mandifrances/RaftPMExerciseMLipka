@@ -18,5 +18,48 @@ As part of completing this exercise, please submit the following items as final 
 - [ ] 6. Provide write access to the repository to the following folks: omnipresent07, shubhi-raft, and turbomarc
 
 
-## Kickoff Agenda
+## Kickoff Agenda (Week 1)
+### Clinet & Product Team Meeting
+[Meeting Notes]
+**Introductions**
+- Your name, your role, where you are located.
 
+**Project Background** 
+- Historical Context
+- Insight into Current Pain Points
+
+**Project Vision Statement**
+- Vision Statement Discussion
+
+**Project Scope**
+- Timeline Introduction
+- Consensus on Statment of Work
+
+**Project Plan**
+- First Phase Roadmap Overview
+
+**Roles**
+- Define Project Roles & Assignments
+- - DACI Model
+- - - Driver(s):
+- - - Approver(s):
+- - - Contributors
+- - - Informed:
+
+**Collaboration**
+- Open Source Repo to be Used: [RaftPMExerciseMLipka](https://github.com/mandifrances/RaftPMExerciseMLipka)
+- Documentation Standards Defined
+- - All Documentation will be Housed in this repo [Wiki](https://github.com/mandifrances/RaftPMExerciseMLipka/wiki)
+- User Stories will be organized and found in [Zenhub]
+- Methodology & Ceremonies: [Scrum]
+- Communication Methods
+- - Primary:
+- - Secondary:
+
+**Questions?**
+
+**Next Steps (Week 2)**
+- Kickoff with Client Team
+- Setup of necessary Infrastructure to Begin Execution
+- User Story Creation
+- Meetings to be Scheduled
