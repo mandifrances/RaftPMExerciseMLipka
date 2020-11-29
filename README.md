@@ -20,7 +20,9 @@ As part of completing this exercise, please submit the following items as final 
 
 ## Kickoff Agenda (Week 1)
 ### Clinet & Product Team Meeting
-[Meeting Notes]
+
+[Meeting Notes](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Sprint_0/Project_Kickoff.md)
+
 **Introductions**
 - Your name, your role, where you are located.
 
