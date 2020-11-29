@@ -6,8 +6,8 @@ You are kicking off a new project for revamping a legacy system into a new web b
 As part of completing this exercise, please submit the following items as final deliverables for review by the Raft team.
 
 ## Deliverable
-[x] 1. Draft a kick off agenda that you may propose for kick off meeting(s) with the stakeholders. The first week of the project will comprise of kick-off meetings with your team and the client team.
-[x] 2. Create a GitHub Public Repository to manage the product development.
+([ ]) 1. Draft a kick off agenda that you may propose for kick off meeting(s) with the stakeholders. The first week of the project will comprise of kick-off meetings with your team and the client team.
+([ ]) 2. Create a GitHub Public Repository to manage the product development.
 [x] 3. The kick off agenda from (1) should be in the README.md file of the repo. Define all sprint ceremonies including the structure and output for each ceremony in the README.
 [x] 4. Setup boards and create issues for Sprint 0. The sprint duration will be two weeks.
 [x] 5. Enable Zenhub (https://www.zenhub.com/) -- It is free for public repositories. We will view Zenhub via the Google Chrome Plugin
