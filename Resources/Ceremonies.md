@@ -7,7 +7,7 @@
 ## Table of Contents
 1. [Daily Standup](#daily-standup)
 2. [Sprint Planning](#sprint-planning)
-3. [Refinement](#refinement)
+3. [Refinement *(Optional Ceremony)](#refinement-optional-ceremony)
 4. [Sprint Review/Demo](#sprint-reviewdemo)
 5. [Sprint Retrospective](#sprint-retrospective)
 
