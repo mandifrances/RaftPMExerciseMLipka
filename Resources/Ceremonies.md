@@ -84,7 +84,7 @@ Previous sprint has already been ended (unfinished work rolled to backlog) - ret
 
 [BACK TO TOP](#scrum-ceremonies)
 
-## Refinement *Optional Ceremony*
+## Refinement *(Optional Ceremony)*
 ### Attendees:
 **Facilitator:** PM/PO
 
