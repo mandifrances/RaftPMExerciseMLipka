@@ -52,7 +52,7 @@ As part of completing this exercise, please submit the following items as final 
 - Open Source Repo to be Used: [RaftPMExerciseMLipka](https://github.com/mandifrances/RaftPMExerciseMLipka)
 - Project Documentation Standards Defined (i.e. coding standards, repo standards, etc.)
 - - All Documentation will be Housed in this repo [Wiki](https://github.com/mandifrances/RaftPMExerciseMLipka/wiki)
-- User Stories will be organized and found in [Zenhub]
+- User Stories will be organized and found in [Zenhub](https://app.zenhub.com/workspaces/raftpmexercisemlipka-5fc445ae134dc20015233d03/board)
 - Methodology & Ceremonies: [Scrum](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Resources/Ceremonies.md)
 - Communication Methods
 - - Primary:
