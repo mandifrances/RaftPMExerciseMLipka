@@ -3,12 +3,15 @@
 
 ## Attendees:
 
-### Processes to be Improved & How:
+## Processes to be Improved & How:
 
 
-### Action Items:
+## Action Items:
 - [ ] **Due Date** *Item Description* @ Who
 
-### Escalations for Management:
+## Escalations for Management:
+
+
+### Parking Lot
 
 
