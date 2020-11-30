@@ -47,6 +47,7 @@ Each teammember takes a turn answering the questions above
 [BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Planning
+[Template](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Templates/Sprint_Planning.md)
 ### Attendees
 **Facilitator:** Scrum Master
 
@@ -85,6 +86,7 @@ Previous sprint has already been ended (unfinished work rolled to backlog) - ret
 [BACK TO TOP](#scrum-ceremonies)
 
 ## Refinement *(Optional Ceremony)*
+[Template](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Templates/Refinement.md)
 ### Attendees:
 **Facilitator:** PM/PO
 
@@ -122,6 +124,7 @@ PM/PO has prioritized backlog and has identified what stories will be refined
 [BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Review/Demo
+[Template](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Templates/Sprint_ReviewDemo.md)
 ### Attendees:
 **Facilitator:** Scrum Master (Review) PO (Demo)
 
@@ -159,6 +162,9 @@ The Sprint Review is an informal meeting that takes place at the end of the Spri
 [BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Retrospective
+[Team Template](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Templates/Team_Sprint_Retrospective.md)
+
+[Management Template](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Meeting_Notes/Templates/Management_Sprint_Retrospective.md)
 ### Attendees:
 **Facilitator:** Scrum Master is responsible to ensure it happens; Teammembers take turns facilitating
 
