@@ -7,7 +7,7 @@
 
 
 ### Action Items
--[ ] **Due Date** *Item Description* @ Who
+- [ ] **Due Date** *Item Description* @ Who
 
 ### Escalations for Management
 
