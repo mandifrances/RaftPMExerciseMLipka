@@ -9,7 +9,7 @@
 2. [Sprint Planning](sprint-planning)
 3. [Refinement](refinement)
 4. [Sprint Review/Demo](sprint-review/demo)
-5. [Sprint Retrospective](sprint-retrospective)
+5. [Sprint Retrospective](#sprint-retrospective)
 
 ## Daily Standup 
 ### Attendees:
