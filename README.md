@@ -66,4 +66,4 @@ As part of completing this exercise, please submit the following items as final 
 - User Story Creation
 - Meetings to be Scheduled
 
-[BACK TO TOP](#RaftPMExerciseMLipka)
+[BACK TO TOP](#raft-pm-exercise-m-lipka)
