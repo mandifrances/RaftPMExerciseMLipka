@@ -44,7 +44,7 @@ All conversation kept to 16th minute
 ### Agenda
 Each teammember takes a turn answering the questions above
 
-[BACK TO TOP](#table-of-contents)
+[BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Planning
 ### Attendees
@@ -82,7 +82,9 @@ Previous sprint has already been ended (unfinished work rolled to backlog) - ret
 - New sprint is started before leaving meeting
 - Meeting Ends
 
-## Refinement
+[BACK TO TOP](#scrum-ceremonies)
+
+## Refinement *Optional Ceremony*
 ### Attendees:
 **Facilitator:** PM/PO
 
@@ -116,6 +118,8 @@ PM/PO has prioritized backlog and has identified what stories will be refined
 4. Action Items called out
 5. Meeting Ends
 6. Meeting Notes posted
+
+[BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Review/Demo
 ### Attendees:
@@ -151,6 +155,8 @@ The Sprint Review is an informal meeting that takes place at the end of the Spri
 4. Answer/ask stakeholder question(s)
 5. Meeting Ends
 6. Sprint Report and Notes posted
+
+[BACK TO TOP](#scrum-ceremonies)
 
 ## Sprint Retrospective
 ### Attendees:
