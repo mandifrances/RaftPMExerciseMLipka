@@ -1,4 +1,4 @@
-# RaftPMExerciseMLipka
+# Raft PM Exercise M. Lipka
 
 ## Table of Contents
 1. [Exercise Background](#background)
