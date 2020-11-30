@@ -53,7 +53,7 @@ As part of completing this exercise, please submit the following items as final 
 - Documentation Standards Defined
 - - All Documentation will be Housed in this repo [Wiki](https://github.com/mandifrances/RaftPMExerciseMLipka/wiki)
 - User Stories will be organized and found in [Zenhub]
-- Methodology & Ceremonies: [Scrum]
+- Methodology & Ceremonies: [Scrum](https://github.com/mandifrances/RaftPMExerciseMLipka/blob/main/Resources/Ceremonies.md)
 - Communication Methods
 - - Primary:
 - - Secondary:
