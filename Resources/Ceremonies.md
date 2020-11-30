@@ -4,6 +4,12 @@
 2. Posted Meeting notes at end of meeting
 3. Daily Standup will have action items and blockers tracked
 
+## Table of Contents
+1. [Daily Standup](daily-standup)
+2. [Sprint Planning](sprint-planning)
+3. [Refinement](refinement)
+4. [Sprint Review/Demo](sprint-review/demo)
+5. [Sprint Retrospective](sprint-retrospective)
 
 ## Daily Standup 
 ### Attendees:
