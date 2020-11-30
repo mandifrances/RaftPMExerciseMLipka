@@ -8,7 +8,7 @@
 1. [Daily Standup](#daily-standup)
 2. [Sprint Planning](#sprint-planning)
 3. [Refinement](#refinement)
-4. [Sprint Review/Demo](#sprint-review/demo)
+4. [Sprint Review/Demo](#sprint-reviewdemo)
 5. [Sprint Retrospective](#sprint-retrospective)
 
 ## Daily Standup 
@@ -43,6 +43,8 @@ All conversation kept to 16th minute
 
 ### Agenda
 Each teammember takes a turn answering the questions above
+
+[BACK TO TOP](#table-of-contents)
 
 ## Sprint Planning
 ### Attendees
